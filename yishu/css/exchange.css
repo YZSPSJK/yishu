@@ -1,0 +1,26 @@
+/* 
+    Created on : 2016-2-27, 14:25:25
+    Author     : yzsps
+*/
+#title{
+    height: 50px;
+    width: 100%;
+}
+#action{
+    display: inline;
+    height:69%;
+    width: 25%;
+}
+#content{
+    display: inline;
+    height:69%;
+    width: 75%; 
+}
+#right{
+    position: relative;
+    height:10%;
+    width: 100%;
+}
+#folio{
+    display: inline;
+}
